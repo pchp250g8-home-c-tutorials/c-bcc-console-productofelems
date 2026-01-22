@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2026.01.22 17:48:57.698,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2026.01.22 17:48:57.871,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.c</Transaction>
+    <Transaction>2026.01.22 17:51:37.119,D:\Projects\Programming\C\BDS\Console\Algorithms\ProductOfElems\ProductOfElemsPCH1.h=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2026.01.22 17:51:37.130,D:\Projects\Programming\C\BDS\Console\Algorithms\ProductOfElems\File1.c=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.c</Transaction>
+    <Transaction>2026.01.22 17:51:37.142,D:\Projects\Programming\C\BDS\Console\Algorithms\ProductOfElems\ProductOfElems.cbproj=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2026.01.22 17:51:48.836,D:\Projects\Programming\C\BDS\Console\Algorithms\ProductOfElems\ProductOfElems.c=D:\Projects\Programming\C\BDS\Console\Algorithms\ProductOfElems\File1.c</Transaction>
+    <Transaction>2026.01.22 17:51:53.470,D:\Projects\Programming\C\BDS\Console\Algorithms\ProductOfElems\ProductOfElems.cbproj=D:\Projects\Programming\C\BDS\Console\Algorithms\ProductOfElems\ProductOfElems.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
