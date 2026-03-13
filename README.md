@@ -1,5 +1,5 @@
 ProductOfElems. C Tutorials. Embarcadero Rad Studio IDE. Simple Input/Output. Arrays. Algorithms. Console application. 
-A console application in the C++ programming language. 
+A console application in the C programming language. 
 The program does the following:
    1. Asks the user to enter the number of elements in the array.
    2. Allocates memory and creates a dynamic array with the number of elements entered previously.
